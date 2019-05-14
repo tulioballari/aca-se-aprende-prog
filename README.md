@@ -2,7 +2,7 @@
 
 ## 1.Introducción a Web y Javascript
 
-### Referancias:
+### Referencias:
   * Web: https://docs.google.com/document/d/1UFVP30--3HOOv5uKy3o9nlSqo2W-rbih1TShWyIAKxo/edit?usp=sharing
   * Web/js: http://www.howtocreate.co.uk/jshistory.html
   * Javascript: https://auth0.com/blog/a-brief-history-of-javascript/
@@ -10,9 +10,9 @@
 ### Práctica: 
   * Chrome DevTools: https://developers.google.com/web/tools/chrome-devtools/
 
-## 1.Introducción a HTML, CSS y DOM
+## 2.Introducción a HTML, CSS y DOM
 
-### Referancias:
+### Referencias:
  * DOM: https://www.w3schools.com/js/js_htmldom.asp
  * HTML: https://www.w3schools.com/html/default.asp
  * CSS: https://www.w3schools.com/css/default.asp
@@ -21,9 +21,9 @@
  * HTML: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
 
-## 1. Módularidad, packages y deployment
+## 3. Módularidad, packages y deployment
 
-### Referancias:
+### Referencias:
  * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity
  * Package managers: npm (yarn?)
  * Transpilers: Babel
