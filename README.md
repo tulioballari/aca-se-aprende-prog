@@ -28,7 +28,6 @@
  * Package managers: npm (yarn?)
  * Transpilers: Babel
  * Bundlers: Webpack (Rollup & Parcel?)
- * npm
  
  ### Práctica: 
   * Crear un proyecto en node.js para usar es6 con babel y Webpack, con cambios y hot deploy.
