@@ -21,7 +21,7 @@
  * HTML: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
 
-## 3. Módularidad, packages y deployment
+## 3. Modularidad, packages y bundles
 
 ### Referencias:
  * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity
@@ -30,4 +30,4 @@
  * Bundlers: Webpack (Rollup & Parcel?)
  
  ### Práctica: 
-  * Crear un proyecto en node.js para usar es6 con babel y Webpack, con cambios y hot deploy.
+  * Crear un proyecto en node.js para usar es6 con babel, Webpack y hot deploy.
