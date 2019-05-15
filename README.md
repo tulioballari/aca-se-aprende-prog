@@ -45,9 +45,19 @@
   * Incorporar uno de los framework UI al proyecto
   
 ## 5. React
+* TODO
 
-### Referencias:
- * TODO
- 
- ### Práctica: 
-  * TODO
+## 6. HTTP, Rest y Ajax
+* TODO
+
+## 7. Asincronismo, callbacks, promises y async/await
+* TODO
+
+## 8. Persistencia SQL
+* TODO
+
+## 9. Persistencia NoSQL
+* TODO
+
+## 10. Deployment
+* TODO
