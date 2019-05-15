@@ -10,6 +10,7 @@
   
 ### Práctica: 
   * Chrome DevTools: https://developers.google.com/web/tools/chrome-devtools/
+  * Javascript Standard Objects https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## 2.Introducción a HTML, CSS y DOM
 
@@ -22,10 +23,17 @@
  * HTML: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
 
-## 3. Modularidad, packages y bundles
+## 3. Funciones, Clases y módulos
 
 ### Referencias:
- * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity
+ * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc
+ 
+ ### Práctica: 
+  * TODO
+  
+## 4. Node.js, packages y bundles
+
+### Referencias:
  * Package managers: npm (yarn?)
  * Transpilers: Babel
  * Bundlers: Webpack (Rollup & Parcel?)
@@ -33,7 +41,7 @@
  ### Práctica: 
   * Crear el esqueleto del proyecto en node.js para usar es6 con babel, Webpack y hot deploy  https://medium.com/@jeffrey.allen.lewis/the-ultimate-2018-webpack-4-and-babel-setup-guide-npm-yarn-dependencies-compared-entry-points-866b577da6a
 
-## 4. Responsive CSS y Frameworks UI
+## 5. Responsive CSS y Frameworks UI
 
 ### Referencias:
  * Responsive: https://www.w3schools.com/css/css_rwd_intro.asp
@@ -44,20 +52,20 @@
  ### Práctica: 
   * Incorporar uno de los framework UI al proyecto
   
-## 5. React
+## 6. React
 * TODO
 
-## 6. HTTP, Rest y Ajax
+## 7. HTTP, Rest, Ajax y Json
 * TODO
 
-## 7. Asincronismo, callbacks, promises y async/await
+## 8. Asincronismo, callbacks, promises y async/await
 * TODO
 
-## 8. Persistencia SQL
+## 9. Persistencia SQL
 * TODO
 
-## 9. Persistencia NoSQL
+## 10. Persistencia NoSQL
 * TODO
 
-## 10. Deployment
+## 11. Deployment
 * TODO
