@@ -6,7 +6,6 @@
   * Web: https://docs.google.com/document/d/1UFVP30--3HOOv5uKy3o9nlSqo2W-rbih1TShWyIAKxo/edit?usp=sharing
   * Web/js: http://www.howtocreate.co.uk/jshistory.html
   * Javascript: https://auth0.com/blog/a-brief-history-of-javascript/
-  * Javascript Framewoks: https://carlosazaustre.es/frameworks-de-javascript/
   
 ### Práctica: 
   * Chrome DevTools: https://developers.google.com/web/tools/chrome-devtools/
@@ -47,6 +46,7 @@
  * Responsive: https://www.w3schools.com/css/css_rwd_intro.asp
  * Flex: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
  * Grid: https://css-tricks.com/getting-started-css-grid/ https://css-tricks.com/snippets/css/css-grid-starter-layouts/ 
+ * Javascript Framewoks: https://carlosazaustre.es/frameworks-de-javascript/
  * Framework UIs: Bootstrap (Material Design?, Foundation?) https://blog.teamtreehouse.com/the-rundown-bootstrap-vs-google-mdl-vs-foundation https://getbootstrap.com/ https://material.io/develop/web/docs/getting-started/
  
  ### Práctica: 
