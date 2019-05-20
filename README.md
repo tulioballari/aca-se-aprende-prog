@@ -6,6 +6,7 @@
   * Web: https://docs.google.com/document/d/1UFVP30--3HOOv5uKy3o9nlSqo2W-rbih1TShWyIAKxo/edit?usp=sharing
   * Web/js: http://www.howtocreate.co.uk/jshistory.html
   * Javascript: https://auth0.com/blog/a-brief-history-of-javascript/
+  * https://www.modernjs.com/what-is-modern-js.html
   
 ### Práctica: 
   * Chrome DevTools: https://developers.google.com/web/tools/chrome-devtools/
@@ -14,26 +15,30 @@
 ## 2.Introducción a HTML, CSS y DOM
 
 ### Referencias:
- * DOM: https://www.w3schools.com/js/js_htmldom.asp
  * HTML: https://www.w3schools.com/html/default.asp
  * CSS: https://www.w3schools.com/css/default.asp
+ * DOM: https://www.w3schools.com/js/js_htmldom.asp
+
  
 ### Práctica: 
- * HTML: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
- * HTML/DOM: https://developers.google.com/web/tools/chrome-devtools/beginners/html
+ * HTML 1: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+ * HTML 2: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
 
-## 3. Funciones, Clases y módulos
+## 3. Funciones, objetos, clases y módulos
 
 ### Referencias:
  * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc
- 
+ * MUCHO TODO
  ### Práctica: 
-  * TODO
+  * MUCHO TODO
   
 ## 4. Node.js, packages y bundles
 
 ### Referencias:
+ * Introdución: https://www.modernjs.com/modern-js-essentials.html
+ * Linting: https://medium.com/@danielsternlicht/thoughts-about-javascript-linters-and-lint-driven-development-7c8f17e7e1a0
+ https://eslint.org/
  * Package managers: npm (yarn?)
  * Transpilers: Babel
  * Bundlers: Webpack (Rollup & Parcel?)
@@ -47,6 +52,7 @@
  * Responsive: https://www.w3schools.com/css/css_rwd_intro.asp
  * Flex: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
  * Grid: https://css-tricks.com/getting-started-css-grid/ https://css-tricks.com/snippets/css/css-grid-starter-layouts/ 
+ * CSS Preprocessors: Sass https://sass-lang.com/ https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
  * Javascript Framewoks: https://carlosazaustre.es/frameworks-de-javascript/
  * Framework UIs: Bootstrap (Material Design?, Foundation?) https://blog.teamtreehouse.com/the-rundown-bootstrap-vs-google-mdl-vs-foundation https://getbootstrap.com/ https://material.io/develop/web/docs/getting-started/
  
