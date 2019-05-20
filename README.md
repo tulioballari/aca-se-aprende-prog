@@ -19,7 +19,8 @@
  * CSS: https://www.w3schools.com/css/default.asp
  
 ### Práctica: 
- * HTML: https://developers.google.com/web/tools/chrome-devtools/beginners/html
+ * HTML: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+ * HTML/DOM: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
 
 ## 3. Funciones, Clases y módulos
