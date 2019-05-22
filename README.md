@@ -18,6 +18,7 @@
  * HTML: https://www.w3schools.com/html/default.asp
  * CSS: https://www.w3schools.com/css/default.asp
  * DOM: https://www.w3schools.com/js/js_htmldom.asp
+ * Support of features: https://caniuse.com/#home
 
  
 ### Práctica: 
