@@ -30,9 +30,9 @@
 
 ### Referencias:
  * Módulos en Javascritp: https://ponyfoo.com/articles/brief-history-of-modularity https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc
- * MUCHO TODO
+ * Tutorial bueno: https://exploringjs.com/impatient-js/toc.html
  ### Práctica: 
-  * MUCHO TODO
+  * https://glitch.com/edit/#!/wooded-gull
   
 ## 4. Node.js, packages y bundles
 
