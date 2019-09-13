@@ -25,6 +25,7 @@
  * HTML 1: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
  * HTML 2: https://developers.google.com/web/tools/chrome-devtools/beginners/html
  * CSS: https://developers.google.com/web/tools/chrome-devtools/beginners/css
+ * DOM: [Using the DOM like a Pro](https://itnext.io/using-the-dom-like-a-pro-163a6c552eba)
 
 ## 3. Funciones, objetos, clases y módulos
 
