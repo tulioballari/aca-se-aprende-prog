@@ -38,7 +38,7 @@
 ## 4. Node.js, packages y bundles
 
 ### Referencias:
- * Introdución: https://www.modernjs.com/modern-js-essentials.html
+ * Introdución: https://www.modernjs.com/modern-js-essentials.html https://dev.to/hoangbkit/a-complete-guide-to-javascript-tooling-56eg
  * Linting: https://medium.com/@danielsternlicht/thoughts-about-javascript-linters-and-lint-driven-development-7c8f17e7e1a0
  https://eslint.org/
  * Package managers: npm (yarn?)
